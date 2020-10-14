@@ -1,0 +1,4 @@
+#TaskCard:hover {
+    cursor: pointer;
+    background-color: aqua;
+}   
